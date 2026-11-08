@@ -1,0 +1,301 @@
+{
+  "namespace": "Atlas Labs",
+  "owner_slug": "atlas-labs",
+  "repository": "knobbyintens/github_notion_3118-x7q2m-atlas-labs",
+  "schema": "deliverables-bundle/v1",
+  "items": {
+    "Frosted Brief": {
+      "files": {
+        "README.md": "# Frosted Brief\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Brief\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9269f45486618bd5\"\n}"
+      },
+      "category": "model"
+    },
+    "Drifting Catalog": {
+      "files": {
+        "README.md": "# Drifting Catalog\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Drifting Catalog\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"10ce1fa4669c5dae\"\n}"
+      },
+      "category": "archive"
+    },
+    "Dusk Update": {
+      "files": {
+        "README.md": "# Dusk Update\n\nDeliverable maintained by Atlas Labs.\n\n- Category: report\n- Version: 1.0\n"
+      },
+      "category": "report"
+    },
+    "Balmoral Logbook": {
+      "files": {
+        "README.md": "# Balmoral Logbook\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Balmoral Logbook\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"67ecba8db6000752\"\n}"
+      },
+      "category": "model"
+    },
+    "Yonder Survey": {
+      "files": {
+        "README.md": "# Yonder Survey\n\nDeliverable maintained by Atlas Labs.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Yonder Survey\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"774a0253b709ff5e\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Harbor Treasury": {
+      "files": {
+        "README.md": "# Harbor Treasury\n\nDeliverable maintained by Atlas Labs.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Harbor Treasury\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e48bdd976c4f67ef\"\n}"
+      },
+      "category": "brief"
+    },
+    "Zephyr Catalog": {
+      "files": {
+        "README.md": "# Zephyr Catalog\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Zephyr Catalog\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d8f6f30392488ad8\"\n}"
+      },
+      "category": "spec"
+    },
+    "Lilac Treasury": {
+      "files": {
+        "README.md": "# Lilac Treasury\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Lilac Treasury\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1464bef6882c3c86\"\n}"
+      },
+      "category": "spec"
+    },
+    "Velvet Inventory": {
+      "files": {
+        "README.md": "# Velvet Inventory\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Velvet Inventory\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c88da3329d7b14c5\"\n}"
+      },
+      "category": "model"
+    },
+    "Frosted Treasury": {
+      "files": {
+        "README.md": "# Frosted Treasury\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Treasury\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bba832886619be20\"\n}"
+      },
+      "category": "archive"
+    },
+    "Ember Ledgerbook": {
+      "files": {
+        "README.md": "# Ember Ledgerbook\n\nDeliverable maintained by Atlas Labs.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ember Ledgerbook\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ce0d69fde1960d15\"\n}"
+      },
+      "category": "brief"
+    },
+    "Gilded Narrative": {
+      "files": {
+        "README.md": "# Gilded Narrative\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Gilded Narrative\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5567707991aacb65\"\n}"
+      },
+      "category": "model"
+    },
+    "Indigo Dossier": {
+      "files": {
+        "README.md": "# Indigo Dossier\n\nDeliverable maintained by Atlas Labs.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Indigo Dossier\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"06b8d41f45151cf7\"\n}"
+      },
+      "category": "deck"
+    },
+    "Cobalt Ledger": {
+      "files": {
+        "README.md": "# Cobalt Ledger\n\nDeliverable maintained by Atlas Labs.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Cobalt Ledger\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"93944af1bad18de0\"\n}"
+      },
+      "category": "brief"
+    },
+    "Umber Blueprint": {
+      "files": {
+        "README.md": "# Umber Blueprint\n\nDeliverable maintained by Atlas Labs.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Umber Blueprint\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"dfa4efd43dea6d1c\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Harbor Jigsaw": {
+      "files": {
+        "README.md": "# Harbor Jigsaw\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Harbor Jigsaw\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f263479bd6ca4ce8\"\n}"
+      },
+      "category": "spec"
+    },
+    "Frosted Manual": {
+      "files": {
+        "README.md": "# Frosted Manual\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Manual\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"0b98ec3a672ce9f4\"\n}"
+      },
+      "category": "model"
+    },
+    "Xenial Portfolio": {
+      "files": {
+        "README.md": "# Xenial Portfolio\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Xenial Portfolio\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a2d2a7846db5ac53\"\n}"
+      },
+      "category": "archive"
+    },
+    "Keen Register": {
+      "files": {
+        "README.md": "# Keen Register\n\nDeliverable maintained by Atlas Labs.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Keen Register\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"c50b9ef3a60f95ea\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Evergreen Compendium": {
+      "files": {
+        "README.md": "# Evergreen Compendium\n\nDeliverable maintained by Atlas Labs.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Evergreen Compendium\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ac54f1d4b34f9aa9\"\n}"
+      },
+      "category": "brief"
+    },
+    "Kestrel Explorer": {
+      "files": {
+        "README.md": "# Kestrel Explorer\n\nDeliverable maintained by Atlas Labs.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Kestrel Explorer\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ed1a1fd49da46b2c\"\n}"
+      },
+      "category": "report"
+    },
+    "Lunar Atlas": {
+      "files": {
+        "README.md": "# Lunar Atlas\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Lunar Atlas\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d22a429654ae9512\"\n}"
+      },
+      "category": "model"
+    },
+    "Ivory Keepsake": {
+      "files": {
+        "README.md": "# Ivory Keepsake\n\nDeliverable maintained by Atlas Labs.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Keepsake\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"871b3af8884644c9\"\n}"
+      },
+      "category": "deck"
+    },
+    "Halcyon Handbook": {
+      "files": {
+        "README.md": "# Halcyon Handbook\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Halcyon Handbook\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a33984a1b472fb11\"\n}"
+      },
+      "category": "spec"
+    },
+    "Velvet Orbit": {
+      "files": {
+        "README.md": "# Velvet Orbit\n\nDeliverable maintained by Atlas Labs.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Velvet Orbit\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a09de8f2d17c3389\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Granite Atlas": {
+      "files": {
+        "README.md": "# Granite Atlas\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Granite Atlas\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f527a6c26e6ad02d\"\n}"
+      },
+      "category": "archive"
+    },
+    "Amber Digest": {
+      "files": {
+        "README.md": "# Amber Digest\n\nDeliverable maintained by Atlas Labs.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Amber Digest\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bcda50378e72446f\"\n}"
+      },
+      "category": "deck"
+    },
+    "Drifting Glossary": {
+      "files": {
+        "README.md": "# Drifting Glossary\n\nDeliverable maintained by Atlas Labs.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Drifting Glossary\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bddc3d39164210ec\"\n}"
+      },
+      "category": "report"
+    },
+    "Indigo Ledger": {
+      "files": {
+        "README.md": "# Indigo Ledger\n\nDeliverable maintained by Atlas Labs.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Indigo Ledger\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"8a7f580186b6d25f\"\n}"
+      },
+      "category": "brief"
+    },
+    "Dusk Handbook": {
+      "files": {
+        "README.md": "# Dusk Handbook\n\nDeliverable maintained by Atlas Labs.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Dusk Handbook\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"aaad6115c4863033\"\n}"
+      },
+      "category": "deck"
+    },
+    "Frosted Explorer": {
+      "files": {
+        "README.md": "# Frosted Explorer\n\nDeliverable maintained by Atlas Labs.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Explorer\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e6ee5bb224db9842\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Sable Logbook": {
+      "files": {
+        "README.md": "# Sable Logbook\n\nDeliverable maintained by Atlas Labs.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Sable Logbook\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6bb2b4b882944885\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Sable Explorer": {
+      "files": {
+        "README.md": "# Sable Explorer\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Sable Explorer\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"8d7003343bf6b306\"\n}"
+      },
+      "category": "spec"
+    },
+    "Harbor Dossier": {
+      "files": {
+        "README.md": "# Harbor Dossier\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Harbor Dossier\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"39cb51858e6ca438\"\n}"
+      },
+      "category": "archive"
+    },
+    "Dusk Envelope": {
+      "files": {
+        "README.md": "# Dusk Envelope\n\nDeliverable maintained by Atlas Labs.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Dusk Envelope\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"209ff0f98c9f451b\"\n}"
+      },
+      "category": "report"
+    },
+    "Marble Manual": {
+      "files": {
+        "README.md": "# Marble Manual\n\nDeliverable maintained by Atlas Labs.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Marble Manual\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d95be4a8db0cbabc\"\n}"
+      },
+      "category": "spec"
+    },
+    "Jade Treasury": {
+      "files": {
+        "README.md": "# Jade Treasury\n\nDeliverable maintained by Atlas Labs.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Jade Treasury\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4172ddcde1fc04af\"\n}"
+      },
+      "category": "archive"
+    },
+    "Sable Index": {
+      "files": {
+        "README.md": "# Sable Index\n\nDeliverable maintained by Atlas Labs.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Sable Index\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a930d6d4c1d4879f\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Aurora Glossary": {
+      "files": {
+        "README.md": "# Aurora Glossary\n\nDeliverable maintained by Atlas Labs.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Aurora Glossary\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"44886635a224ab6b\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Halcyon Survey": {
+      "files": {
+        "README.md": "# Halcyon Survey\n\nDeliverable maintained by Atlas Labs.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Halcyon Survey\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"2f57f11c97ce64fa\"\n}"
+      },
+      "category": "deck"
+    },
+    "Aurora Treasury": {
+      "files": {
+        "README.md": "# Aurora Treasury\n\nDeliverable maintained by Atlas Labs.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Aurora Treasury\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"86cc1c94113900cc\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Juniper Ledger": {
+      "files": {
+        "README.md": "# Juniper Ledger\n\nDeliverable maintained by Atlas Labs.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Juniper Ledger\",\n  \"owner\": \"Atlas Labs\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9af6ecd4ca28f468\"\n}"
+      },
+      "category": "model"
+    }
+  }
+}
